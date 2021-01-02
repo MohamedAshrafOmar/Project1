@@ -11,12 +11,11 @@ void main() {
 	printf(" y=\n %d", y);*/
 
 	int x;
-	int m;
+	int y;
 	scanf_s("x= %d", &x);
-	m = 2 * x;
+	y = 2 * x;
 	printf("m=\n %d", m);
 
 	
 }
 
-helooo
